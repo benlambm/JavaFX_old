@@ -29,7 +29,7 @@ A simple JavaFX FXML application that launches a blank window. It's structured a
 3. Run the following command:
    
    ```
-   git clone https://github.com/benlambm/your-repo-name.git
+   git clone https://github.com/benlambm/JavaFX-Starter.git
    ```
 
 #### Option 3: Clone with GitHub Desktop
@@ -77,7 +77,7 @@ mvn clean package
 You can then execute the JAR file using:
 
 ```bash
-java -jar target/game-1.2.3.jar
+java -jar target/gui-0.0.1.jar
 ```
 
 ## Contributing to the Class Project
