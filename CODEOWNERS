@@ -1,0 +1,4 @@
+# This is an example CODEOWNERS file for a Java project
+
+# Default owner for everything in the repo (unless a later match takes precedence)
+* @benlambm
