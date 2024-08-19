@@ -89,7 +89,12 @@ java -jar target/game-1.2.3.jar
    ```
    git checkout main
    ```
-2. Create and switch to a new branch:
+2. Pull the latest changes:
+   
+   ```
+   git pull origin main
+   ```
+3. Create and switch to a new branch:
    
    ```
    git checkout -b your-branch-name
