@@ -5,9 +5,9 @@ A simple JavaFX FXML application that launches a blank window. It's structured a
 ## Prerequisites
 
 - JDK 21 
-- Maven 3.6.0 
-- Git 
-- Optional: GitHub Desktop app
+- Maven 3.6.0 or higher
+
+- Optional: Git or GitHub Desktop app
 
 
 
